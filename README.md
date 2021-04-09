@@ -6,4 +6,4 @@ Zvonimir Stojanovski and Dmitry Savransky
  - CUTpoints by N. Adurthi, P. Singla, and T. Singh: https://github.com/nadurthi/CUTpoints
  - Eigen: https://eigen.tuxfamily.org/
 
-Note: ode.cpp is released under the GNU Lesser General Public License
+Note: ode.hpp and ode.cpp are released under the GNU Lesser General Public License
