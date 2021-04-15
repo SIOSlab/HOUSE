@@ -1,9 +1,9 @@
 rm -f out/*
 
-bash compile.sh
-
 ./projectile.exe
 
 Rscript processing.r
+Rscript plot_err.r
+Rscript plot_rmse.r
+Rscript plot_runtime.r
 
-gnuplot plots.plt

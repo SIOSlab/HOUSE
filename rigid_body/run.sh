@@ -1,7 +1,7 @@
 rm -f out/*
 
-bash compile.sh
-
 ./rigid_body.exe
 
-gnuplot plots.plt
+Rscript plot_err.r
+Rscript plot_rmse.r
+Rscript plot_runtime.r

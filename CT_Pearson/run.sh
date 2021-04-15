@@ -6,7 +6,3 @@ bash compile.sh
 ./ct.exe
 
 ./st.exe
-
-gnuplot plotct.plt
-
-gnuplot ploterr.plt

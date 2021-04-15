@@ -5,5 +5,3 @@ rm -f house.a
 ar rcs house.a *.o
 
 rm -f *.o
-
-
