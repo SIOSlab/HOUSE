@@ -1,3 +1,5 @@
+mkdir -p out
+
 rm -f out/*
 
 ./rigid_body.exe

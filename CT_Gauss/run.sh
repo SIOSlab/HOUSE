@@ -1,5 +1,6 @@
+mkdir -p out
+
 rm -f out/*
-rm -f plots/*
 
 ./ct.exe
 
