@@ -12,4 +12,4 @@ Note: ode.hpp and ode.cpp are released under the GNU Lesser General Public Licen
 Compiling & Running
  - To compile main library and examples, run compile.sh (requires g++ compiler)
  - To generate CUT points (needed for examples), run cut_sigma_points.m (modify addpath if necessary)
- - For complete examples, use the script run.sh (includes simulations, post-processing, and plotting)
+ - To run examples, use the run.sh scripts in the subdirectories
